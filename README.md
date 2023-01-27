@@ -24,8 +24,8 @@
 
 ## Features
 
-<li> Download your favorites videos__ and musics </li>
-<li> Get informations on the video like comments, views </li>
+Download your favorites __videos__ and __musics__ 
+Get informations on the video like __comments__, __views__ etc.
 
 ## Installation
 
@@ -42,3 +42,8 @@ Then install ffmpeg
 brew install ffmpeg
 ```
  
+ ### Install all dependencies
+ 
+ ```
+  pip install -r requirements.txt
+ ```
