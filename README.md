@@ -26,3 +26,19 @@
 
 <li> Download your favorites videos__ and musics </li>
 <li> Get informations on the video like comments, views </li>
+
+## Installation
+
+You need to install ffmpeg
+
+Download Brew
+
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
+Then install ffmpeg
+```
+brew install ffmpeg
+```
+ 
