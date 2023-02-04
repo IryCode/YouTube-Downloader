@@ -8,15 +8,15 @@
 <p align="center">
 
   <a href="https://python.org">
-    <img width=100 src="https://user-images.githubusercontent.com/86270481/215148577-fadb1476-793c-48d4-a5fb-596beb091120.png"/>
+    <img width=100 src="https://user-images.githubusercontent.com/86270481/215148577-fadb1476-793c-48d4-a5fb-596beb091120.png" alt="python"/>
   </a>
   
   <a href="https://pypi.org/project/pytube/">
-    <img width=200 src="https://user-images.githubusercontent.com/86270481/215146750-fceb8f0b-7e1e-4475-8c44-8f92277e806e.png"/>
+    <img width=200 src="https://user-images.githubusercontent.com/86270481/215146750-fceb8f0b-7e1e-4475-8c44-8f92277e806e.png" alt="pytube python"/>
   </a>
   
   <a href="https://pypi.org/project/ffmpeg-python/">
-    <img width=100 src="https://user-images.githubusercontent.com/86270481/215147865-28d71174-eec5-4341-8b02-ce16208f1e44.png"/>
+    <img width=100 src="https://user-images.githubusercontent.com/86270481/215147865-28d71174-eec5-4341-8b02-ce16208f1e44.png" alt="python ffmpeg ffmpeg-python"/>
   </a>
   
 </p>
@@ -24,7 +24,7 @@
 
 ## Features
 
-Download your favorites __videos__ and __musics__ 
+Download your favorites __videos__ and __musics__ from YouTube
 Get informations on the video like __comments__, __views__ etc.
 
 ## Installation
@@ -38,6 +38,7 @@ Download Brew
 ```
 
 Then install ffmpeg
+In order to download the best resolution video you have to install ffmpeg to combine the audio file and the video file : Indeed for a certain quality the video stream is separeted from the audio stream so you have to download both and combine them.
 ```
 brew install ffmpeg
 ```
